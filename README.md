@@ -13,9 +13,15 @@ Welcome to the **Advanced Scientific Calculator**! This isn't just any calculato
 
 Whether you need simple arithmetic or complex scientific functions, this calculator handles it all with style! It features a **Glassmorphism design**, smooth animations, and a fully responsive layout that works perfectly on desktop and mobile. 📱💻
 
----
+--- 
+                                      ## 🔗 Live Demo
 
-## ✨ Key Features
+The calculator is deployed and available online. You can use it directly in your browser at:
+https://adevt-calculator.vercel.app/
+
+Visit the link to try the calculator without cloning or running it locally.
+
+---                                                                           ## ✨ Key Features
 
 Here's what makes this calculator special:
 
@@ -84,4 +90,5 @@ Let's build something amazing together! 🤝
 ---
 
 > *Made with ❤️ and ☕ by Talha Javed.*
+
 
